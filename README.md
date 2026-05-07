@@ -1,6 +1,5 @@
 
 # Bank Loan Analysis
-![SQL](https://img.shields.io/badge/SQL-Queries-lightgrey)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
 ![Python](https://img.shields.io/badge/Python-Preprocessing-blue)
 
